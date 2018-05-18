@@ -1,0 +1,5 @@
+NAME=com.opsview.opspack.database_etcd
+VERSION=1.0
+ALIAS=Database - Etcd
+DEPENDENCIES=
+OPSVIEW_MIN_VERSION=
